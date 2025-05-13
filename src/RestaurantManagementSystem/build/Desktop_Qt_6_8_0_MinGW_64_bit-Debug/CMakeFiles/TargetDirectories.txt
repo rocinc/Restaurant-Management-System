@@ -1,0 +1,9 @@
+E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/RestaurantManagementSystem.dir
+E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/RestaurantManagementSystem_autogen_timestamp_deps.dir
+E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/RestaurantManagementSystem_autogen.dir

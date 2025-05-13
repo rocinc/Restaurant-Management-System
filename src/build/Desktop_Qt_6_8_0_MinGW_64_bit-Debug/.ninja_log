@@ -1,0 +1,80 @@
+# ninja log v5
+619	3890	7557280340737424	CMakeFiles/RestaurantManagementSystem.dir/stockcreate.cpp.obj	d59a9cbd135e2945
+1785	5325	7557241329766424	CMakeFiles/RestaurantManagementSystem.dir/stockdata.cpp.obj	d8ebdfd49986ffc7
+10	563	7557279240567235	RestaurantManagementSystem_autogen/timestamp	abed7c23fbf64846
+825	4086	7557280342567656	CMakeFiles/RestaurantManagementSystem.dir/vipwindow.cpp.obj	12c477d3afc9db48
+10	563	7557279240567235	E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RestaurantManagementSystem_autogen/mocs_compilation.cpp	abed7c23fbf64846
+636	3892	7557280340427450	CMakeFiles/RestaurantManagementSystem.dir/mainwindow.cpp.obj	3a3e0d70085c5049
+10	563	7557279240567235	E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RestaurantManagementSystem_autogen/timestamp	abed7c23fbf64846
+780	3942	7557280341202538	CMakeFiles/RestaurantManagementSystem.dir/orderaddtaste.cpp.obj	b2b0544e17166401
+646	3428	7557251216025509	CMakeFiles/RestaurantManagementSystem.dir/main.cpp.obj	bdf92763dfe648e2
+655	4089	7557280342777679	CMakeFiles/RestaurantManagementSystem.dir/stockwindow.cpp.obj	443400dd53c0e3b2
+853	4035	7557280342337652	CMakeFiles/RestaurantManagementSystem.dir/vipcreate.cpp.obj	aebef7ccb93cd29d
+691	3945	7557280341392540	CMakeFiles/RestaurantManagementSystem.dir/stockedit.cpp.obj	bf96416e3c7b6968
+2179	5794	7557241337087821	CMakeFiles/RestaurantManagementSystem.dir/vipdata.cpp.obj	dddb3249177315fa
+40	1523	7555536898157927	build.ninja	536a4c11ae1f43aa
+1729	5821	7557241337572162	CMakeFiles/RestaurantManagementSystem.dir/RestaurantManagementSystem_autogen/mocs_compilation.cpp.obj	fddf33f7c1066caa
+1923	5795	7557241336887339	CMakeFiles/RestaurantManagementSystem.dir/orderdata.cpp.obj	1f531a0fe613831
+599	3775	7557280339922328	CMakeFiles/RestaurantManagementSystem.dir/vipedit.cpp.obj	49485858371f11e
+805	4085	7557280342727827	CMakeFiles/RestaurantManagementSystem.dir/orderstatusedit.cpp.obj	2089e7da18077e1c
+714	4263	7557280344997533	CMakeFiles/RestaurantManagementSystem.dir/orderwindow.cpp.obj	e1baeba768599e99
+4263	5099	7557280353278424	RestaurantManagementSystem.exe	1e6a54c073739508
+10	563	7557279240567235	RestaurantManagementSystem_autogen/mocs_compilation.cpp	abed7c23fbf64846
+673	3941	7557280341242543	CMakeFiles/RestaurantManagementSystem.dir/deskwindow.cpp.obj	bf3cb3a0d307a853
+880	4188	7557280344266917	CMakeFiles/RestaurantManagementSystem.dir/viptypecreate.cpp.obj	a5628a9466ed00bf
+466	2129	7548170112183636	CMakeFiles/RestaurantManagementSystem.dir/test.cpp.obj	9602d53bc5468fa8
+748	3999	7557280342187654	CMakeFiles/RestaurantManagementSystem.dir/orderadd.cpp.obj	373e6018563af530
+5	576	7557281478925452	RestaurantManagementSystem_autogen/timestamp	abed7c23fbf64846
+5	576	7557281478925452	RestaurantManagementSystem_autogen/mocs_compilation.cpp	abed7c23fbf64846
+5	576	7557281478925452	E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RestaurantManagementSystem_autogen/timestamp	abed7c23fbf64846
+5	576	7557281478925452	E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RestaurantManagementSystem_autogen/mocs_compilation.cpp	abed7c23fbf64846
+611	4089	7557281532952432	CMakeFiles/RestaurantManagementSystem.dir/vipedit.cpp.obj	49485858371f11e
+631	4090	7557281533422449	CMakeFiles/RestaurantManagementSystem.dir/mainwindow.cpp.obj	3a3e0d70085c5049
+686	4299	7557281535553040	CMakeFiles/RestaurantManagementSystem.dir/stockedit.cpp.obj	bf96416e3c7b6968
+935	4333	7557281536158367	CMakeFiles/RestaurantManagementSystem.dir/viptypecreate.cpp.obj	a5628a9466ed00bf
+848	4334	7557281536438419	CMakeFiles/RestaurantManagementSystem.dir/vipcreate.cpp.obj	aebef7ccb93cd29d
+768	4335	7557281536633657	CMakeFiles/RestaurantManagementSystem.dir/orderstatusedit.cpp.obj	2089e7da18077e1c
+892	4335	7557281536653512	CMakeFiles/RestaurantManagementSystem.dir/vipwindow.cpp.obj	12c477d3afc9db48
+650	4336	7557281536823685	CMakeFiles/RestaurantManagementSystem.dir/stockcreate.cpp.obj	d59a9cbd135e2945
+798	4337	7557281535718447	CMakeFiles/RestaurantManagementSystem.dir/orderaddtaste.cpp.obj	b2b0544e17166401
+820	4344	7557281536993963	CMakeFiles/RestaurantManagementSystem.dir/orderadd.cpp.obj	373e6018563af530
+742	4347	7557281537176574	CMakeFiles/RestaurantManagementSystem.dir/deskwindow.cpp.obj	bf3cb3a0d307a853
+668	4429	7557281538207945	CMakeFiles/RestaurantManagementSystem.dir/stockwindow.cpp.obj	443400dd53c0e3b2
+705	4442	7557281538360435	CMakeFiles/RestaurantManagementSystem.dir/orderwindow.cpp.obj	e1baeba768599e99
+4443	5289	7557281546710181	RestaurantManagementSystem.exe	1e6a54c073739508
+4	598	7557608030726911	RestaurantManagementSystem_autogen/timestamp	abed7c23fbf64846
+4	598	7557608030726911	RestaurantManagementSystem_autogen/mocs_compilation.cpp	abed7c23fbf64846
+4	598	7557608030726911	E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RestaurantManagementSystem_autogen/timestamp	abed7c23fbf64846
+4	598	7557608030726911	E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RestaurantManagementSystem_autogen/mocs_compilation.cpp	abed7c23fbf64846
+633	4325	7557610137124195	CMakeFiles/RestaurantManagementSystem.dir/vipedit.cpp.obj	49485858371f11e
+654	4897	7557610142131724	CMakeFiles/RestaurantManagementSystem.dir/mainwindow.cpp.obj	3a3e0d70085c5049
+791	5081	7557610144839109	CMakeFiles/RestaurantManagementSystem.dir/stockedit.cpp.obj	bf96416e3c7b6968
+1036	5082	7557610144639013	CMakeFiles/RestaurantManagementSystem.dir/vipcreate.cpp.obj	aebef7ccb93cd29d
+721	5159	7557610145239175	CMakeFiles/RestaurantManagementSystem.dir/stockcreate.cpp.obj	d59a9cbd135e2945
+894	5160	7557610144939103	CMakeFiles/RestaurantManagementSystem.dir/orderaddtaste.cpp.obj	b2b0544e17166401
+923	5161	7557610145339234	CMakeFiles/RestaurantManagementSystem.dir/orderstatusedit.cpp.obj	2089e7da18077e1c
+842	5170	7557610145714075	CMakeFiles/RestaurantManagementSystem.dir/deskwindow.cpp.obj	bf3cb3a0d307a853
+684	5171	7557610145844163	CMakeFiles/RestaurantManagementSystem.dir/stockwindow.cpp.obj	443400dd53c0e3b2
+954	5234	7557610146544761	CMakeFiles/RestaurantManagementSystem.dir/vipwindow.cpp.obj	12c477d3afc9db48
+866	5263	7557610147057134	CMakeFiles/RestaurantManagementSystem.dir/orderadd.cpp.obj	373e6018563af530
+999	5268	7557610147157186	CMakeFiles/RestaurantManagementSystem.dir/viptypecreate.cpp.obj	a5628a9466ed00bf
+811	5289	7557610147581204	CMakeFiles/RestaurantManagementSystem.dir/orderwindow.cpp.obj	e1baeba768599e99
+5290	6204	7557610156657930	RestaurantManagementSystem.exe	1e6a54c073739508
+4	587	7557613651012635	RestaurantManagementSystem_autogen/timestamp	abed7c23fbf64846
+4	587	7557613651012635	RestaurantManagementSystem_autogen/mocs_compilation.cpp	abed7c23fbf64846
+4	587	7557613651012635	E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RestaurantManagementSystem_autogen/timestamp	abed7c23fbf64846
+4	587	7557613651012635	E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/RestaurantManagementSystem_autogen/mocs_compilation.cpp	abed7c23fbf64846
+623	4075	7557613713503378	CMakeFiles/RestaurantManagementSystem.dir/vipedit.cpp.obj	49485858371f11e
+644	4317	7557613714004476	CMakeFiles/RestaurantManagementSystem.dir/mainwindow.cpp.obj	3a3e0d70085c5049
+690	4669	7557613719737812	CMakeFiles/RestaurantManagementSystem.dir/stockcreate.cpp.obj	d59a9cbd135e2945
+788	4878	7557613722259871	CMakeFiles/RestaurantManagementSystem.dir/orderadd.cpp.obj	373e6018563af530
+951	4879	7557613722359847	CMakeFiles/RestaurantManagementSystem.dir/vipwindow.cpp.obj	12c477d3afc9db48
+888	4880	7557613722259871	CMakeFiles/RestaurantManagementSystem.dir/viptypecreate.cpp.obj	a5628a9466ed00bf
+711	4892	7557613722559824	CMakeFiles/RestaurantManagementSystem.dir/stockedit.cpp.obj	bf96416e3c7b6968
+854	4910	7557613722759837	CMakeFiles/RestaurantManagementSystem.dir/orderstatusedit.cpp.obj	2089e7da18077e1c
+738	4959	7557613723093797	CMakeFiles/RestaurantManagementSystem.dir/deskwindow.cpp.obj	bf3cb3a0d307a853
+663	4960	7557613723076699	CMakeFiles/RestaurantManagementSystem.dir/stockwindow.cpp.obj	443400dd53c0e3b2
+913	4965	7557613723259437	CMakeFiles/RestaurantManagementSystem.dir/vipcreate.cpp.obj	aebef7ccb93cd29d
+815	4966	7557613723145975	CMakeFiles/RestaurantManagementSystem.dir/orderaddtaste.cpp.obj	b2b0544e17166401
+762	5197	7557613725775716	CMakeFiles/RestaurantManagementSystem.dir/orderwindow.cpp.obj	e1baeba768599e99
+5197	6127	7557613735001547	RestaurantManagementSystem.exe	1e6a54c073739508

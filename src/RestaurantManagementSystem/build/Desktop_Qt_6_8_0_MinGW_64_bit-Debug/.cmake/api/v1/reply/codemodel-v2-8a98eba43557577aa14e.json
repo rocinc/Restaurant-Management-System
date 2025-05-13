@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3d013a69fe63b17d857e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RestaurantManagementSystem",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "RestaurantManagementSystem::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RestaurantManagementSystem-Debug-bfeba44bb8a05a2e3d91.json",
+					"name" : "RestaurantManagementSystem",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RestaurantManagementSystem_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RestaurantManagementSystem_autogen-Debug-542952c81e878acb396d.json",
+					"name" : "RestaurantManagementSystem_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RestaurantManagementSystem_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RestaurantManagementSystem_autogen_timestamp_deps-Debug-d44f11f9f36d4e566942.json",
+					"name" : "RestaurantManagementSystem_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/Restaurant Management System/RestaurantManagementSystem/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "E:/Restaurant Management System/RestaurantManagementSystem"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
