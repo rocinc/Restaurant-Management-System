@@ -1,0 +1,12 @@
+build/
+Debug/
+Release/
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.exp
+*.pdb
+Makefile*
+*.pro.user
